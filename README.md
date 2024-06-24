@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dan Ngo.
 - Second Year Computer Science student at Swinburne University of Technology, I am looking for internships at the moment.
-- A "project" I have that I cannot create a repository for it: https://leetcode.com/DanNgo04/
 - Otherwise, everything is in my repos and GitHub profile.
 - Thanks for stopping by!!
 
