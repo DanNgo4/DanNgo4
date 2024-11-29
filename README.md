@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Ngo.
-- Third Year Computer Science student at Swinburne University of Technology.
+- Third Year Computer Science student at Swinburne University of Technology, Junior Software Developer at Onset Design.
 - Otherwise, everything is in my repos and GitHub profile.
 - Thanks for stopping by!
 
