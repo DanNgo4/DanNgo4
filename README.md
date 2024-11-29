@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan Ngo.
-- Second Year Computer Science student at Swinburne University of Technology, I am looking for internships at the moment.
+- Third Year Computer Science student at Swinburne University of Technology.
 - Otherwise, everything is in my repos and GitHub profile.
 - Thanks for stopping by!
 
